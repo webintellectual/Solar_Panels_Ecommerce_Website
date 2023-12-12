@@ -1,0 +1,56 @@
+[
+  {
+    "username": "user561",
+    "password": "123456yu",
+    "email": "random@ran.com",
+    "gender": "Male",
+    "profileImage": "uploads/1702244684991-unnamed.jpg",
+    "orderHistory": [
+      {
+        "id": "8ae5df4b-e5cc-44c0-99ec-38ff8e41df51",
+        "date": "2023-12-10T21:45:46.760Z",
+        "productName": "Monocrystalline Solar Panel",
+        "quantity": "20",
+        "billAmount": "$20000",
+        "Address": "uyeufioppp",
+        "phoneNumber": "6783939"
+      },
+      {
+        "id": "eeb2a630-81f6-4174-9711-111c877b912e",
+        "date": "2023-12-10T21:46:06.091Z",
+        "productName": "Thin Film Solar Panel",
+        "quantity": "15",
+        "billAmount": "$9000",
+        "Address": "hudijdovkvl;v",
+        "phoneNumber": "72782929220"
+      }
+    ]
+  },
+  {
+    "username": "root",
+    "password": "123456",
+    "email": "example@ht.com",
+    "gender": "Male",
+    "profileImage": "uploads/1702320323356-349-3493220_lap-top-clipart.png",
+    "orderHistory": [
+      {
+        "id": "f0c9cce2-e95c-4b61-ac73-311ac56b2269",
+        "date": "2023-12-11T18:48:04.156Z",
+        "productName": "Polycrystalline Solar Panel",
+        "quantity": "20",
+        "billAmount": "$16000",
+        "Address": "uduyeuyeuyfufuif",
+        "phoneNumber": "7678398398903"
+      },
+      {
+        "id": "75d4ad37-929d-40e7-b2eb-d075f843e719",
+        "date": "2023-12-11T18:48:29.564Z",
+        "productName": "Thin Film Solar Panel",
+        "quantity": "67",
+        "billAmount": "$40200",
+        "Address": "lskpldpr[f[",
+        "phoneNumber": "8894940404"
+      }
+    ]
+  }
+]
